@@ -153,11 +153,7 @@
                   </a>
                 </figure>
               </div>
-
             </div>
-
-            
-
           </div>
           
         </div>
