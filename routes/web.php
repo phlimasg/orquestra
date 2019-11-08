@@ -21,6 +21,10 @@ Route::get('/albuns/fotos/2', function () {
     return view('foto2');
 })->name('mak');
 
+Route::get('/download', function () {
+    return redirect('http://bit.ly/2O6pn2r');
+})->name('download');
+
 Route::get('/', function () {
     return view('welcome');
 });
