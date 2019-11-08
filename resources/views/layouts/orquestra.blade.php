@@ -117,7 +117,8 @@
           <div class="col-lg-4">
             <div class="mb-5">
               <h3 class="footer-heading mb-4">Sobre a Orquestra</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe pariatur reprehenderit vero atque, consequatur id ratione, et non dignissimos culpa? Ut veritatis, quos illum totam quis blanditiis, minima minus odio!</p>
+              <p>A {{date('Y')-1957}} anos,  a Orquestra La Salle continua produzindo boa música e encantando platéias. 
+                Sob regência do maestro Henrique Manso Junior, neto do maestro Pedro Mota, fundador da então Orquestra Típica de Ritmos La Salle, em 1957. Referência musical em Niterói e cidades vizinhas, a Orquestra La Salle é uma atividade cultural gratuita, oferecida aos alunos do Colégio La Salle Abel.</p>
             </div>
 
             
@@ -132,7 +133,7 @@
                 <ul class="list-unstyled">
                   <li><a href="{{ url('/') }}">Início</a></li>
                   <li><a href="{{ url('/') }}#contato">Contato</a></li>
-                  <li><a href="{{ url('/album') }}">Fotos</a></li>
+                  <li><a href="{{ route('album') }}">Fotos</a></li>
                   <li><a href="{{ asset('/album/Orquestra_Lasalle.zip') }}">Baixe o Álbum</a></li>
                 </ul>
               </div>
@@ -143,13 +144,24 @@
           </div>
           
           <div class="col-lg-4 mb-5 mb-lg-0">
+              <div class="mb-5">
+                  <h3 class="footer-heading mb-4">Realização</h3>
+    
+                  <div class="block-16">
+                    <figure>
+                      <a href="http://lasalle.edu.br/abel" target="_blank">
+                        <img src="{{ asset('images/logos/logo-2018_BR.png') }}" alt="Colégio La Salle Abel" class="img-fluid" style="max-width: 250px">                  
+                      </a>
+                    </figure>
+                  </div>
+                </div>
             <div class="mb-5">
               <h3 class="footer-heading mb-4">Patrocínio do Álbum de 60 Anos</h3>
 
               <div class="block-16">
                 <figure>
                   <a href="https://www.grupoaguasdobrasil.com.br/aguas-niteroi/" target="_blank">
-                    <img src="{{ asset('images/logos/aguas_niteroi_logo.png') }}" alt="Águas de Niterói" class="img-fluid rounded">                  
+                    <img src="{{ asset('images/logos/aguas_niteroi_logo.png') }}" alt="Águas de Niterói" class="img-fluid rounded" style="max-width: 280px">                  
                   </a>
                 </figure>
               </div>

@@ -115,7 +115,7 @@ FIM TOPO -->
           <p>Preparamos, com todo carinho, um teaser da gravação do nosso albúm de comemoração. Espere que gostem!</p>
         </div>
       </div>
-      <div class="row">
+      <div class="row" data-aos="fade-up">
         <div class="col-sm-8">
           <br>
             <video width="100%" controls id="video" poster="{{asset('images/video_bg.jpg')}}" preload="none" onclick="playVideo2()">
