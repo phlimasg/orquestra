@@ -4,6 +4,7 @@
     <title>Orquestra La Salle</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="google-site-verification" content="7pR_gb8CX634uSO2mPYxmUFW5f0B1-AmhQjsOzTXwhc" />
     <link rel="apple-touch-icon" sizes="57x57" href="https://matriculas.lasalle.edu.br/assets/img/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="https://matriculas.lasalle.edu.br/assets/img/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="https://matriculas.lasalle.edu.br/assets/img/apple-icon-72x72.png">
