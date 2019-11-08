@@ -12,7 +12,7 @@
 */
 Route::get('/albuns', function () {
     return view('album');
-});
+})->name('album');
 
 Route::get('/albuns/fotos/1', function () {
     return view('foto1');
