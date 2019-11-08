@@ -134,7 +134,7 @@
                   <li><a href="{{ url('/') }}">Início</a></li>
                   <li><a href="{{ url('/') }}#contato">Contato</a></li>
                   <li><a href="{{ route('album') }}">Fotos</a></li>
-                  <li><a href="{{ asset('/album/Orquestra_Lasalle.zip') }}">Baixe o Álbum</a></li>
+                  <li><a href="http://bit.ly/2O6pn2r">Baixe o Álbum</a></li>
                 </ul>
               </div>
             </div>
