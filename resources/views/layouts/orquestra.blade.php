@@ -64,7 +64,7 @@
                   <li class="">
                     <a href="{{url('/')}}#contato">Contato</a>                    
                   </li>
-                  <li><a href="{{url('/album')}}">Fotos</a></li>
+                  <li><a href="{{ route('album') }}">Fotos</a></li>
                   <!--<li><a href="{{url('/')}}#agenda">Agenda</a></li>                  
                   <li><a href="{{url('/')}}#sobre">Sobre</a></li>-->
                   <li><a href="{{ asset('/album/Orquestra_Lasalle.zip') }}" download class="btn btn-warning text-black" >Baixe o Albúm &nbsp;</a></li>
