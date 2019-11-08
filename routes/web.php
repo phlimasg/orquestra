@@ -10,14 +10,14 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('/album', function () {
+Route::get('/albuns', function () {
     return view('album');
 });
 
-Route::get('/album/fotos/1', function () {
+Route::get('/albuns/fotos/1', function () {
     return view('foto1');
 })->name('teatro');
-Route::get('/album/fotos/2', function () {
+Route::get('/albuns/fotos/2', function () {
     return view('foto2');
 })->name('mak');
 
