@@ -112,7 +112,7 @@ FIM TOPO -->
       <div class="row">
         <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto" data-aos="fade-up">
           <h2 class="mb-5">Assista ao Teaser</h2>
-          <p>Preparamos, com todo carinho, um teaser da gravação do nosso albúm de comemoração. Espere que gostem!</p>
+          <p>Preparamos, com todo carinho, um teaser da gravação do nosso álbum de comemoração. Espere que gostem!</p>
         </div>
       </div>
       <div class="row" data-aos="fade-up">
