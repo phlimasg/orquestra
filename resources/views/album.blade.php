@@ -39,6 +39,17 @@
             </div>
           </a>
         </div>
+        <div class="col-6 col-md-6 col-lg-12" data-aos="fade-up">
+          <a href="{{ route('teatro_abel') }}" class="d-block photo-item">
+            <img src="{{asset('images/album/teatro_abel/'.rand(1,101).'.jpg')}}" alt="Image" class="img-fluid">
+            <div class="photo-text-more">
+              <div class="photo-text-more">
+              <h3 class="heading">Orquestra La Salle no Teatro Abel</h3>
+              <span class="meta">101 Fotos</span>
+            </div>
+            </div>
+          </a>
+        </div>
         
 
       </div>     

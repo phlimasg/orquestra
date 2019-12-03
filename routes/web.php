@@ -20,6 +20,9 @@ Route::get('/albuns/fotos/1', function () {
 Route::get('/albuns/fotos/2', function () {
     return view('foto2');
 })->name('mak');
+Route::get('/albuns/fotos/3', function () {
+    return view('foto3');
+})->name('teatro_abel');
 
 Route::get('/download', function () {
     return redirect('http://bit.ly/2O6pn2r');
