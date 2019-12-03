@@ -133,8 +133,8 @@
           <div class="col-lg-4">
             <div class="mb-5">
               <h3 class="footer-heading mb-4">Sobre a Orquestra</h3>
-              <p>A {{date('Y')-1957}} anos,  a Orquestra La Salle continua produzindo boa música e encantando platéias. 
-                Sob regência do maestro Henrique Manso Junior, neto do maestro Pedro Mota, fundador da então Orquestra Típica de Ritmos La Salle, em 1957. Referência musical em Niterói e cidades vizinhas, a Orquestra La Salle é uma atividade cultural gratuita, oferecida aos alunos do Colégio La Salle Abel.</p>
+              <p>Há {{date('Y')-1957}} anos,  a Orquestra La Salle continua produzindo boa música e encantando platéias. 
+                Sob regência do maestro Henrique Manso Junior, neto do maestro Pedro Motta, fundador da então Orquestra Típica de Ritmos La Salle, em 1957. Referência musical em Niterói e cidades vizinhas, a Orquestra La Salle é uma atividade cultural gratuita, oferecida aos alunos do Colégio La Salle Abel.</p>
             </div>
 
             
